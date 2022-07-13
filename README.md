@@ -3,7 +3,7 @@
 * 2 - create a virtual environment and activate
 *  - pip install virtualenv
 *  - virtualenv envname
-*  - envname\scripts\activate
+*  - envname\scripts\activate or source envname/Script/activate
 * 3 - pip install -r requirements.txt
 * 4 - python manage.py runserver
 
